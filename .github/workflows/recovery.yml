@@ -6,7 +6,7 @@ on:
       RECOVERY_URL:
         description: 'RECOVERY URL'
         required: true
-        default: 'https://transfer.sh/(RECOMMENDED)'
+        default: 'https://download1527.mediafire.com/dsnze5rfwkpg49X_uSEqX_Sh_tBJR-XItERF7fttLxMHM9NiUG0CbC6vQ0cF50CodgPZf0ud4kJuBiiJ6nfphZ0v-5OmVXEfXFqPWmmO4H9MY8a7DeO1Qp80MIFgJycXdboZ9b4AF-wQHNmyN9SasLFNkjqCPPUCOWz7vFD6yQ/6nqdoqud1cpcmdv/recovery+%283%29.img'
 
 env:
   RECOVERY_URL: https://oshi.at/Rpjg
